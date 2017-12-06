@@ -12,6 +12,9 @@
 
 4kaime 
 
+5kaime
+6kaime hennkou
+
 
 
 */

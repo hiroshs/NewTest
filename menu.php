@@ -1,5 +1,18 @@
 <?php
 
+
+/*
+
+hennkou1
+
+hennkou2
+
+*/
+
+
+
+
+
 session_start();
 
 include "./security_mgmt.php";
