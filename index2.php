@@ -10,7 +10,6 @@
 
 とりあえずコミット
 
-4kaime hennkou 
 
 
 
